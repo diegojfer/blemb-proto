@@ -843,3 +843,7 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,macos,linux,visualstudio,visualstudiocode,vim,emacs,textmate,clion,jetbrains,notepadpp,cmake,ninja,xcode,salesforce
+
+build/sender_example
+build/receiver_example
+build/libblemb-proto.a
